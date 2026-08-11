@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("คำนวณค่า BMI")
+st.title("คำนวณค่าดัชนีมวลกาย BMI")
 st.write("โปรแกรมคำนวณดัชนีมวลกาย")
 
 weight = st.number_input(
